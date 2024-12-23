@@ -1,0 +1,992 @@
+[
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What candy is shaped like a shepherd's staff?",
+      "Answer": "Candy Cane"
+    },
+    "es": {
+      "Question": "¿Qué dulce tiene forma de cayado de pastor?",
+      "Answer": "Bastón de caramelo"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What popular Christmas beverage is also called 'milk punch'?",
+      "Answer": "Eggnog"
+    },
+    "es": {
+      "Question": "¿Qué popular bebida navideña se llama también 'ponche de leche'?",
+      "Answer": "Eggnog"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What type of pudding is popular during the holiday season in England?",
+      "Answer": "Figgy Pudding"
+    },
+    "es": {
+      "Question": "¿Qué tipo de pudin es popular durante las fiestas navideñas en Inglaterra?",
+      "Answer": "Figgy Pudding"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What alcohol is traditionally added to the base of Christmas Sponge Cake?",
+      "Answer": "Sherry Wine"
+    },
+    "es": {
+      "Question": "¿Qué alcohol se añade tradicionalmente a la base del bizcocho navideño?",
+      "Answer": "Vino de Jerez"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What is the traditional drink served during Christmas in Mexico, made with fruit, spices, and piloncillo?",
+      "Answer": "Ponche Navideño"
+    },
+    "es": {
+      "Question": "¿Cuál es la bebida tradicional que se sirve en Navidad en México, hecha con fruta, especias y piloncillo?",
+      "Answer": "Ponche Navideño"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What is the name of the sweet bread eaten on Three Kings' Day in Mexico, which often contains a hidden figurine?",
+      "Answer": "Rosca de Reyes"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el pan dulce que se come el Día de Reyes en México y que suele contener una figurita escondida?",
+      "Answer": "Rosca de Reyes"
+    }
+  },
+  {
+    "Category": "Comida y Bebida/Food and Drink",
+    "en": {
+      "Question": "What is the name of the traditional Mexican dish often served during Christmas, made with corn dough and various fillings?",
+      "Answer": "Tamales"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el plato tradicional mexicano que se suele servir en Navidad, hecho con masa de maíz y diversos rellenos?",
+      "Answer": "Tamales"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What are edible, ornately decorated houses made out of during Christmas?",
+      "Answer": "Gingerbread"
+    },
+    "es": {
+      "Question": "¿De qué están hechas las casas comestibles decoradas con adornos navideños?",
+      "Answer": "Pan de jengibre"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "In 'A Christmas Story,' what gift does Ralphie want more than anything?",
+      "Answer": "A Red Ryder BB Gun"
+    },
+    "es": {
+      "Question": "En 'Cuento de Navidad', ¿qué regalo desea Ralphie más que nada?",
+      "Answer": "Una pistola de aire comprimido Red Ryder"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What are Frosty the Snowman's eyes made of?",
+      "Answer": "Coal"
+    },
+    "es": {
+      "Question": "¿De qué están hechos los ojos de Frosty el muñeco de nieve?",
+      "Answer": "De carbón"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is the name of the Grinch's dog in 'How the Grinch Stole Christmas'?",
+      "Answer": "Max"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el perro del Grinch en 'Cómo el Grinch robó la Navidad'?",
+      "Answer": "Max"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is the name of the famous ballet performed during the Christmas season?",
+      "Answer": "The Nutcracker"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el famoso ballet que se representa en Navidad?",
+      "Answer": "El Cascanueces"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What are the two main colors associated with Christmas?",
+      "Answer": "Red and green"
+    },
+    "es": {
+      "Question": "¿Cuáles son los dos colores principales asociados a la Navidad?",
+      "Answer": "Rojo y verde"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What festive decorations do people often hang above their doorways during Christmas?",
+      "Answer": "Wreath"
+    },
+    "es": {
+      "Question": "¿Qué adornos navideños se cuelgan a menudo en las puertas de las casas?",
+      "Answer": "Coronas de flores"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "In which country did the tradition of putting up a Christmas tree originate?",
+      "Answer": "Germany"
+    },
+    "es": {
+      "Question": "¿En qué país se originó la tradición de poner un árbol de Navidad?",
+      "Answer": "Alemania"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "Which country did eggnog originate from?",
+      "Answer": "England"
+    },
+    "es": {
+      "Question": "¿De qué país procede el ponche de huevo?",
+      "Answer": "Inglaterra"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What do you call traditional Christmas songs?",
+      "Answer": "Carols"
+    },
+    "es": {
+      "Question": "¿Cómo se llaman las canciones tradicionales de Navidad?",
+      "Answer": "Villancicos"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "Who helps Santa make toys at the North Pole?",
+      "Answer": "Elves"
+    },
+    "es": {
+      "Question": "¿Quién ayuda a Papá Noel a fabricar juguetes en el Polo Norte?",
+      "Answer": "Los elfos"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What traditional Christmas decoration is actually a parasitic plant?",
+      "Answer": "Mistletoe"
+    },
+    "es": {
+      "Question": "¿Qué adorno navideño tradicional es en realidad una planta parásita?",
+      "Answer": "El muérdago"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What was Frosty the Snowman's nose made out of?",
+      "Answer": "A Button"
+    },
+    "es": {
+      "Question": "¿De qué estaba hecha la nariz de Frosty el muñeco de nieve?",
+      "Answer": "De un botón"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "How many points does a snowflake have?",
+      "Answer": "Six"
+    },
+    "es": {
+      "Question": "¿Cuántas puntas tiene un copo de nieve?",
+      "Answer": "Seis"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is Santa's favorite snack left by children on Christmas Eve?",
+      "Answer": "Milk and cookies"
+    },
+    "es": {
+      "Question": "¿Cuál es la merienda favorita de Papá Noel que le dejan los niños en Nochebuena?",
+      "Answer": "Leche y galletas"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What was the first company that used Santa Claus in advertising?",
+      "Answer": "Coca-Cola"
+    },
+    "es": {
+      "Question": "¿Cuál fue la primera empresa que utilizó a Papá Noel en publicidad?",
+      "Answer": "Coca-Cola"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is the name of Santa's reindeer that is known for guiding his sleigh through foggy weather?",
+      "Answer": "Rudolph"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el reno de Papá Noel que guía su trineo cuando hay niebla?",
+      "Answer": "Rudolph"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "Where does Santa Claus live?",
+      "Answer": "North Pole"
+    },
+    "es": {
+      "Question": "¿Dónde vive Papá Noel?",
+      "Answer": "Polo Norte"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "In what modern day country was Saint Nicholas born?",
+      "Answer": "Turkey"
+    },
+    "es": {
+      "Question": "¿En qué país moderno nació San Nicolás?",
+      "Answer": "Turquía"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What fairy tale were the first gingerbread houses inspired by?",
+      "Answer": "Hansel and Gretel"
+    },
+    "es": {
+      "Question": "¿En qué cuento de hadas se inspiraron las primeras casas de jengibre?",
+      "Answer": "Hansel y Gretel"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is the main color of Santa's suit?",
+      "Answer": "Red"
+    },
+    "es": {
+      "Question": "¿De qué color es el traje de Papá Noel?",
+      "Answer": "Rojo"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "Mele Kalikimaka means Merry Christmas in what language?",
+      "Answer": "Hawaiian"
+    },
+    "es": {
+      "Question": "¿En qué idioma Mele Kalikimaka significa Feliz Navidad?",
+      "Answer": "Hawaiano"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "Which one of Santa's reindeer has the same name as another holiday mascot?",
+      "Answer": "Cupid"
+    },
+    "es": {
+      "Question": "¿Cuál de los renos de Papá Noel tiene el mismo nombre que otra mascota navideña?",
+      "Answer": "Cupido"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What is the name of the figure from Austrian folklore who punishes naughty children at Christmas?",
+      "Answer": "Krampus"
+    },
+    "es": {
+      "Question": "¿Cómo se llama la figura del folclore austriaco que castiga a los niños traviesos en Navidad?",
+      "Answer": "Krampus"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What do children typically leave out for Santa's reindeer?",
+      "Answer": "Carrots"
+    },
+    "es": {
+      "Question": "¿Qué suelen dejar los niños para los renos de Papá Noel?",
+      "Answer": "Zanahorias"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "The celebrated Christmas Truce temporarily halted the fighting during what war?",
+      "Answer": "WWI"
+    },
+    "es": {
+      "Question": "¿Qué guerra detuvo temporalmente los combates durante la tregua de Navidad?",
+      "Answer": "Primera Guerra Mundial"
+    }
+  },
+  {
+    "Category": "General/General",
+    "en": {
+      "Question": "What did the other reindeer not let Rudolph do because of his shiny red node?",
+      "Answer": "Join in any Reindeer Games"
+    },
+    "es": {
+      "Question": "¿Qué es lo que los otros renos no dejaban hacer a Rudolph por su brillante nodo rojo?",
+      "Answer": "Participar en algún juego de renos"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'A Christmas Carol,' who is Scrooge's late business partner?",
+      "Answer": "Jacob Marley"
+    },
+    "es": {
+      "Question": "En 'Cuento de Navidad', ¿quién es el difunto socio de Scrooge?",
+      "Answer": "Jacob Marley"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In the movie Elf how does baby Buddy get to the north pole?",
+      "Answer": "He Hides in Santa's Sack"
+    },
+    "es": {
+      "Question": "En la pelicula Elf como llega el bebe Buddy al polo norte?",
+      "Answer": "Se esconde en el saco de Santa Claus"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "What's the name of the main villain in the movie Nightmare Before Christmas?",
+      "Answer": "Oogie Boogie / Boogie Man"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el villano principal de la película Pesadilla antes de Navidad?",
+      "Answer": "Oogie Boogie / Boogie Man"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "Which character famously said, 'Christmas doesn't come from a store; maybe Christmas, perhaps, means a little bit more'?",
+      "Answer": "The Grinch"
+    },
+    "es": {
+      "Question": "¿Qué personaje dijo: 'La Navidad no viene de una tienda; quizá la Navidad signifique un poco más'?",
+      "Answer": "El Grinch"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In the movie 'Elf,' what are the four main food groups for elves?",
+      "Answer": "Candy, candy canes, candy corns, and syrup"
+    },
+    "es": {
+      "Question": "En la película 'Elf', ¿cuáles son los cuatro grupos de alimentos principales de los elfos?",
+      "Answer": "Caramelos, bastones de caramelo, callos de caramelo y sirope"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'Home Alone,' what is the name of the family that Kevin is a part of?",
+      "Answer": "The McCallisters"
+    },
+    "es": {
+      "Question": "En 'Solo en casa', ¿cómo se llama la familia de la que forma parte Kevin?",
+      "Answer": "Los McCallister"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "What city does Buddy travel to in search of his father in 'Elf'?",
+      "Answer": "New York City"
+    },
+    "es": {
+      "Question": "¿A qué ciudad viaja Buddy en busca de su padre en 'Elf'?",
+      "Answer": "Nueva York"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "Which Muppet was the narrator for the Christmas Carol in The Muppet's in 1992?",
+      "Answer": "Gonzo"
+    },
+    "es": {
+      "Question": "¿Qué Teleñeco fue el narrador del Cuento de Navidad en Los Teleñecos en 1992?",
+      "Answer": "Gonzo"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'The Nightmare Before Christmas,' what is Jack Skellington's nickname?",
+      "Answer": "The Pumpkin King"
+    },
+    "es": {
+      "Question": "En 'Pesadilla antes de Navidad', ¿cuál es el apodo de Jack Skellington?",
+      "Answer": "El Rey Calabaza"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "What action flick takes place during Christmas and is considered by many a Christmas movie?",
+      "Answer": "Die Hard"
+    },
+    "es": {
+      "Question": "¿Qué película de acción tiene lugar en Navidad y es considerada por muchos una película navideña?",
+      "Answer": "Jungla de Cristal"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In what science fiction franchise had its own holiday television special in 1978?",
+      "Answer": "Star Wars"
+    },
+    "es": {
+      "Question": "¿Qué franquicia de ciencia ficción tuvo su propio especial de televisión navideño en 1978?",
+      "Answer": "Star Wars"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "What is the name of the character who tries to steal Christmas?",
+      "Answer": "The Grinch"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el personaje que intenta robar la Navidad?",
+      "Answer": "El Grinch"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In the movie 'Elf,' who plays the character Buddy the Elf?",
+      "Answer": "Will Ferrell"
+    },
+    "es": {
+      "Question": "En la película 'Elf', ¿quién interpreta al personaje Buddy el Elfo?",
+      "Answer": "Will Ferrell"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "What famous line is spoken by Tiny Tim in 'A Christmas Carol'?",
+      "Answer": "God bless us, everyone!"
+    },
+    "es": {
+      "Question": "¿Qué famosa frase pronuncia el pequeño Tim en 'Cuento de Navidad'?",
+      "Answer": "¡Que Dios nos bendiga a todos!"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'Home Alone,' what does Kevin use to fend off the burglars?",
+      "Answer": "Homemade traps"
+    },
+    "es": {
+      "Question": "En 'Solo en casa', ¿qué utiliza Kevin para ahuyentar a los ladrones?",
+      "Answer": "Trampas caseras"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'The Nightmare Before Christmas,' what does Jack Skellington's mistakenly call Old Saint Nick?",
+      "Answer": "Sandy Claws"
+    },
+    "es": {
+      "Question": "En 'Pesadilla antes de Navidad', ¿cómo llama Jack Skellington por error al Viejo San Nicolás?",
+      "Answer": "Garras de arena"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In 'Home Alone,' where is Kevin's family going on vacation?",
+      "Answer": "Paris"
+    },
+    "es": {
+      "Question": "En 'Solo en casa', ¿dónde va de vacaciones la familia de Kevin?",
+      "Answer": "París"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "Which Hollywood actor plays six different roles in the Polar Express",
+      "Answer": "Tom Hanks"
+    },
+    "es": {
+      "Question": "¿Qué actor de Hollywood interpreta seis papeles diferentes en el Expreso Polar",
+      "Answer": "Tom Hanks"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In the classic How the Grinch Stole Christmas the Grinch was described with what three words?",
+      "Answer": "Stink Stank Stunk"
+    },
+    "es": {
+      "Question": "¿Qué tres palabras describen al Grinch en el clásico Cómo el Grinch robó la Navidad?",
+      "Answer": "Stink Stank Stunk"
+    }
+  },
+  {
+    "Category": "Cine/Movies",
+    "en": {
+      "Question": "In the movie 'Elf,' what was the first rule of 'The Code of Elves'?",
+      "Answer": "Treat every day like Christmas"
+    },
+    "es": {
+      "Question": "En la película 'Elf', ¿cuál era la primera regla del 'Código de los Elfos'?",
+      "Answer": "Trata cada día como si fuera Navidad"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What Christmas carol contains the line 'Fa-la-la-la-la, la-la-la-la'?",
+      "Answer": "Deck the Halls"
+    },
+    "es": {
+      "Question": "¿Qué villancico contiene la frase 'Fa-la-la-la, la-la-la-la'?",
+      "Answer": "Deck the Halls"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Elvis isn't going to have a white Christmas he's going to have a...",
+      "Answer": "Blue Christmas"
+    },
+    "es": {
+      "Question": "Elvis no va a tener una blanca Navidad va a tener una...",
+      "Answer": "Blue Christmas"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "In the Chipmunks song what did the Chipmunks want for Christmas besides a plane that loops-the-loop?",
+      "Answer": "Hula Hoop"
+    },
+    "es": {
+      "Question": "En la canción de las Ardillas, ¿qué querían las Ardillas por Navidad además de un avión que hiciera loops?",
+      "Answer": "Hula Hoop"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Which Christmas song holds the title of the best-selling single of all time?",
+      "Answer": "White Christmas by Bing Crosby"
+    },
+    "es": {
+      "Question": "¿Qué canción navideña ostenta el título de single más vendido de todos los tiempos?",
+      "Answer": "White Christmas de Bing Crosby"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Who originally sang 'Rockin' Around the Christmas Tree'?",
+      "Answer": "Brenda Lee"
+    },
+    "es": {
+      "Question": "¿Quién cantó originalmente 'Rockin' Around the Christmas Tree'?",
+      "Answer": "Brenda Lee"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "In the song 'The Twelve Days of Christmas,' what gift is given on the first day?",
+      "Answer": "A partridge in a pear tree"
+    },
+    "es": {
+      "Question": "En la canción 'Los doce días de Navidad', ¿qué regalo se da el primer día?",
+      "Answer": "Una perdiz en un peral"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Who sings the popular Christmas hit 'All I Want for Christmas Is You'?",
+      "Answer": "Mariah Carey"
+    },
+    "es": {
+      "Question": "¿Quién canta el popular éxito navideño 'All I Want for Christmas Is You'?",
+      "Answer": "Mariah Carey"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "In 'The Christmas Song,' what is roasting on an open fire?",
+      "Answer": "Chestnuts"
+    },
+    "es": {
+      "Question": "En 'La canción de Navidad', ¿qué se asa en una hoguera?",
+      "Answer": "Castañas"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Finish the line.. You're a mean one",
+      "Answer": "Mr. Grinch"
+    },
+    "es": {
+      "Question": "Termina la línea.. Eres malo",
+      "Answer": "Sr. Grinch"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What words follow silent night in the song Silent Night",
+      "Answer": "Holy Night"
+    },
+    "es": {
+      "Question": "¿Qué palabras siguen a silent night en la canción Silent Night",
+      "Answer": "Holy Night"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What popular Christmas carol begins with 'You better watch out, you better not cry'?",
+      "Answer": "Santa Claus Is Coming to Town"
+    },
+    "es": {
+      "Question": "¿Qué villancico popular comienza con 'You better watch out, you better not cry'?",
+      "Answer": "Santa Claus Is Coming to Town"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "How many ghosts show up in 'A Christmas Carol'?",
+      "Answer": "Four (including Jacob Marley)"
+    },
+    "es": {
+      "Question": "¿Cuántos fantasmas aparecen en 'Cuento de Navidad'?",
+      "Answer": "Cuatro (incluido Jacob Marley)"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Which Christmas song contains the lyric 'Everyone dancing merrily in the new old-fashioned way'?",
+      "Answer": "Rockin' Around the Christmas Tree"
+    },
+    "es": {
+      "Question": "¿Qué canción navideña contiene la letra 'Everyone dancing merrily in the new old-fashioned way'?",
+      "Answer": "Rockin' Around the Christmas Tree"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What is the first name of Scrooge in 'A Christmas Carol'?",
+      "Answer": "Ebenezer"
+    },
+    "es": {
+      "Question": "¿Cuál es el nombre de pila de Scrooge en 'Cuento de Navidad'?",
+      "Answer": "Ebenezer"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Who wrote and recorded the song Wonderful Christmas Time?",
+      "Answer": "Paul McCartney"
+    },
+    "es": {
+      "Question": "¿Quién escribió y grabó la canción Wonderful Christmas Time?",
+      "Answer": "Paul McCartney"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What Christmas song was recorded by Puerto Rican songwriter Jose Feliciano in 1970?",
+      "Answer": "Feliz Navidad"
+    },
+    "es": {
+      "Question": "¿Qué canción navideña grabó el cantautor puertorriqueño José Feliciano en 1970?",
+      "Answer": "Feliz Navidad"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Which Christmas carol was the first song ever broadcast from space?",
+      "Answer": "Jingle Bells"
+    },
+    "es": {
+      "Question": "¿Qué villancico fue la primera canción emitida desde el espacio?",
+      "Answer": "Jingle Bells"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What gift did the Little Drummer Boy give to the new born Christ?",
+      "Answer": "A Song on the Drums"
+    },
+    "es": {
+      "Question": "¿Qué regalo hizo el Tamborilero a Cristo recién nacido?",
+      "Answer": "Una canción de tambores"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "Who wrote the classic story 'A Christmas Carol'?",
+      "Answer": "Charles Dickens"
+    },
+    "es": {
+      "Question": "¿Quién escribió el cuento clásico 'Cuento de Navidad'?",
+      "Answer": "Charles Dickens"
+    }
+  },
+  {
+    "Category": "Música/Music",
+    "en": {
+      "Question": "What is the name of the last ghost that visits Scrooge in 'A Christmas Carol'?",
+      "Answer": "The Ghost of Christmas Yet to Come"
+    },
+    "es": {
+      "Question": "¿Cómo se llama el último fantasma que visita a Scrooge en 'Cuento de Navidad'?",
+      "Answer": "El fantasma de la Navidad que está por llegar"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What is the name of the nine-day celebration leading up to Christmas in Mexico?",
+      "Answer": "Las Posadas"
+    },
+    "es": {
+      "Question": "¿Cómo se llama la celebración de nueve días que precede a la Navidad en México?",
+      "Answer": "Las Posadas"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "During Las Posadas, what do people reenact?",
+      "Answer": "Mary and Joseph's search for lodging in Bethlehem"
+    },
+    "es": {
+      "Question": "Durante Las Posadas, ¿qué representa la gente?",
+      "Answer": "La búsqueda de hospedaje de María y José en Belén"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What is the traditional midnight mass held on Christmas Eve in Mexico called?",
+      "Answer": "Misa de Gallo (Rooster's Mass)"
+    },
+    "es": {
+      "Question": "¿Cómo se llama la tradicional misa de gallo que se celebra en Nochebuena en México?",
+      "Answer": "Misa de Gallo (Rooster's Mass)"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What is celebrated on January 6th in Mexico, marking the end of the Christmas season?",
+      "Answer": "Día de los Reyes (Three Kings' Day)"
+    },
+    "es": {
+      "Question": "¿Qué se celebra el 6 de enero en México, marcando el fin de la temporada navideña?",
+      "Answer": "Día de los Reyes"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What is the significance of mistletoe in Christmas Tradiciones/Traditions?",
+      "Answer": "It symbolizes love and fertility"
+    },
+    "es": {
+      "Question": "¿Qué significado tiene el muérdago en las Tradiciones/Traditions navideñas?",
+      "Answer": "Simboliza el amor y la fertilidad"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What is often placed at the top of a Christmas tree?",
+      "Answer": "A Star or Angel"
+    },
+    "es": {
+      "Question": "¿Qué se suele colocar en la copa del árbol de Navidad?",
+      "Answer": "Una estrella o un ángel"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What type of tree is decorated for Christmas?",
+      "Answer": "Evergreen"
+    },
+    "es": {
+      "Question": "¿Qué tipo de árbol se decora en Navidad?",
+      "Answer": "De hoja perenne"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What are people expected to do under the mistletoe?",
+      "Answer": "Kiss"
+    },
+    "es": {
+      "Question": "¿Qué se espera que se haga bajo el muérdago?",
+      "Answer": "Besar"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What Christmas figure is associated to chocolate coins?",
+      "Answer": "Old Saint Nick"
+    },
+    "es": {
+      "Question": "¿Qué figura navideña se asocia a las monedas de chocolate?",
+      "Answer": "Ol' Saint Nick"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What song was originally banned by the Roman Catholic Church for allegedly portraying an adulterous affair?",
+      "Answer": "I Saw Mommy Kissing Santa Claus"
+    },
+    "es": {
+      "Question": "¿Qué canción fue prohibida originalmente por la Iglesia Católica Romana por representar supuestamente una relación adúltera?",
+      "Answer": "I Saw Mommy Kissing Santa Claus"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "Which famous department store is featured in the movie 'Miracle on 34th Street'?",
+      "Answer": "Macy's"
+    },
+    "es": {
+      "Question": "¿Qué famosos grandes almacenes aparecen en la película 'Milagro en la calle 34'",
+      "Answer": "Macy's"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What do people traditionally sing during the holiday season?",
+      "Answer": "Christmas carols"
+    },
+    "es": {
+      "Question": "¿Qué se canta tradicionalmente durante las fiestas?",
+      "Answer": "Villancicos"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "Which holiday figure is known for saying 'Ho, ho, ho'?",
+      "Answer": "Santa Claus"
+    },
+    "es": {
+      "Question": "¿Qué figura navideña es conocida por decir 'Ho Ho Ho'?",
+      "Answer": "Papá Noel"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What fruit is traditionally associated with Christmas stockings?",
+      "Answer": "Oranges"
+    },
+    "es": {
+      "Question": "¿Qué fruta se asocia tradicionalmente con los calcetines de Navidad?",
+      "Answer": "Naranjas"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "What gifts did the Three Kings bring to Baby Jesus?",
+      "Answer": "Gold and Incense and Myrrh"
+    },
+    "es": {
+      "Question": "¿Qué regalos trajeron los Reyes Magos al Niño Jesús?",
+      "Answer": "Oro e incienso y mirra"
+    }
+  },
+  {
+    "Category": "Tradiciones/Traditions",
+    "en": {
+      "Question": "How long is the average growing time for a Christmas Tree?",
+      "Answer": "Seven Years"
+    },
+    "es": {
+      "Question": "¿Cuál es el tiempo medio de crecimiento de un árbol de Navidad?",
+      "Answer": "Siete años"
+    }
+  }
+]
