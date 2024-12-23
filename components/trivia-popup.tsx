@@ -21,7 +21,6 @@ interface TriviaPopupProps {
 }
 
 const TriviaPopup: React.FC<TriviaPopupProps> = ({
-    category,
     currentTrivia,
     onClose,
     onNextQuestion,

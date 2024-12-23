@@ -27,7 +27,7 @@ function Beam({ index }: { index: number }) {
                 width: "6px",
                 transform: "translateY(-20%)",
                 "--delay": `${index * 0.5}s`,
-            }}
+            } as React.CSSProperties & { [key: string]: string | number }}
         >
             <div
                 style={{
